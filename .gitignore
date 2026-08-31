@@ -1,0 +1,10 @@
+# Build is distributed via Releases, not tracked here.
+*.exe
+*.ahk
+AutoHotkey.exe
+settings.ini
+stuff/
+_release/
+*.env
+Thumbs.db
+desktop.ini
